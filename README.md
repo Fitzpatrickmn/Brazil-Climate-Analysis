@@ -1,4 +1,4 @@
-# Brazil-Climate-Analysis-
+# Brazil Climate Analysis:
 
 Project aimed at exploring the relationship between precipitation, fires and deforestation in Brazil. Gathered data from governmental websites, APIs, and CSVs. Analysis includes statistical analyses, geographic heatmaps, correlation matrices, and graphs. 
 
